@@ -6,6 +6,9 @@
 If you about to install Electron, then you must have a good connection. Otherwise its getting long time to install dependencies.(First time i got 1 1/2 hours ,, i prefer a fiber line connection)
 With a fast fiber line connection, installing Electron and its dependencies will be much quicker compared to slower internet connections.
 
+If you about to install Electron, then you must have a good connection. Otherwise its getting long time to install dependencies. (First time i got 1 1/2 hours, **i prefer a fiber line connection**)
+
+
 This template is a bare minimum setup for an electron project with the React framework
 
 1. First webpack will bundle the React project which is in the side `src` folder
